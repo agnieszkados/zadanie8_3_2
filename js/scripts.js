@@ -1,5 +1,7 @@
 // plik scripts.js
-
-var name = prompt('Wpisz swoje imię');
+{
+  // a tu jeszcze jeden komentarz
+}
 alert('Witaj, ' + name); //przykładowy komentarz linii dodałam komentarz
 console.log('Witaj, ' + name);
+//dodaję kolejny komentarz
